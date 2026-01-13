@@ -4,7 +4,9 @@ Este conteúdo faz parte da mentoria do **"Bootcamp Santander 2025 - Automação
 
 ### O que são Agentes de IA?
 
-De forma simples, um Agente de IA não é apenas um chat que responde perguntas. Pense nele como um "estagiário digital" que tem autonomia. Ele recebe um objetivo e tem permissão para usar ferramentas (como consultar o Google, ler um banco de dados ou enviar um e-mail) para realizar uma tarefa. O **n8n** atua como o escritório onde esse estagiário trabalha, conectando a inteligência da IA com os aplicativos que você usa no dia a dia.
+Um Agente de IA é uma IA que trabalha com objetivo, não apenas com perguntas e respostas. Em vez de só responder um prompt, o agente recebe uma tarefa e pode tomar decisões e executar ações, como consultar dados, chamar APIs, organizar informações ou acionar outros sistemas.
+
+O n8n é o ambiente que permite isso acontecer na prática. Ele define quais ferramentas o agente pode usar, quando usar e como o fluxo de execução acontece, conectando a IA aos aplicativos e serviços do dia a dia.
 
 ---
 
